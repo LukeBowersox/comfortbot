@@ -1,0 +1,8 @@
+prefix=/home/hcr/comfort_bot/install
+
+Name: labjack
+Description: Description of labjack
+Version: 0.0.0
+Cflags: -I/home/hcr/comfort_bot/install/include
+Libs: -L/home/hcr/comfort_bot/install/lib -llabjack
+Requires: message_runtime geometry_msgs nav_msgs roscpp rospy std_msgs

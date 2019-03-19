@@ -1,0 +1,10 @@
+/home/hcr/comfort_bot/install/_setup_util.py
+/home/hcr/comfort_bot/install/env.sh
+/home/hcr/comfort_bot/install/setup.bash
+/home/hcr/comfort_bot/install/setup.sh
+/home/hcr/comfort_bot/install/setup.zsh
+/home/hcr/comfort_bot/install/.rosinstall
+/home/hcr/comfort_bot/install/lib/pkgconfig/labjack.pc
+/home/hcr/comfort_bot/install/share/labjack/cmake/labjackConfig.cmake
+/home/hcr/comfort_bot/install/share/labjack/cmake/labjackConfig-version.cmake
+/home/hcr/comfort_bot/install/share/labjack/package.xml

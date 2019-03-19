@@ -1,0 +1,8 @@
+prefix=/home/hcr/comfort_bot/src/labjack/devel
+
+Name: labjack
+Description: Description of labjack
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/hcr/comfort_bot/src/labjack/devel/lib 
+Requires: 

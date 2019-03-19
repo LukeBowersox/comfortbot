@@ -1,0 +1,2 @@
+labjack
+-DCATKIN_DEVEL_PREFIX=/home/hcr/comfort_bot/devel -DCMAKE_INSTALL_PREFIX=/home/hcr/comfort_bot/install -G Unix Makefiles
